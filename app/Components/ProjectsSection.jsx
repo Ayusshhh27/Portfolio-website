@@ -10,7 +10,7 @@ const projectsData = [
     image: "/images/projects/a.png",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/Ayusshhh27/Portfolio-website",
-    previewUrl: "https://ayushchandra.netlify.app/",
+    previewUrl: "https://ayush-chandra.vercel.app/",
   },
   {
     id: 2,
