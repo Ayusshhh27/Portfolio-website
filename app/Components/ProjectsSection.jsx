@@ -9,8 +9,8 @@ const projectsData = [
       "A responsive portfolio website built with Next.js and Tailwind CSS featuring a clean and modern design with a dynamic layout.",
     image: "/images/projects/a.png",
     tag: ["All", "Web"],
-    gitUrl: "https://github.com/your-username/project-1",
-    previewUrl: "https://example.com/project-1",
+    gitUrl: "https://github.com/Ayusshhh27/Portfolio-website",
+    previewUrl: "https://ayushchandra.netlify.app/",
   },
   {
     id: 2,
