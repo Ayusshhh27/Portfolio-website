@@ -6,11 +6,6 @@ import Image from "next/image";
 import Link from "next/link";
 
 const EmailSection = () => {
-  const handleSubmit = (e) => {
-    e.preventDefault();
-    console.log("done");
-  };
-
   return (
     <section
       id="contact"
