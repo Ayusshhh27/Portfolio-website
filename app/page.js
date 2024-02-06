@@ -10,7 +10,7 @@ export default function Home() {
   return (
     <>
       <Navbar />
-      <main className="flex min-h-screen flex-col bg-[rgb(9,4,11)]">
+      <main className="flex min-h-screen flex-col bg-[rgb(10,5,10)]">
         <section className="container mx-auto px-12 py-4">
           <HeroSection />
           <AchievementsSection />
