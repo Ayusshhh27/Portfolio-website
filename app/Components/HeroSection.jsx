@@ -58,7 +58,7 @@ export const HeroSection = () => {
         <div className="col-span-4 place-self-center mt-4 lg:mt-0">
           <div className=" w-[250px] h-[250px] lg:w-[400px] lg:h-[400px] relative">
             <Image
-              src="/images/cc.png"
+              src="/images/cc.jpg"
               alt="Ayush Chandra - Software Engineer, Ui/Ux Designer, Web Developer"
               style={{
                 position: "absolute",
