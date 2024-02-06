@@ -56,15 +56,16 @@ export const HeroSection = () => {
           </div>
         </div>
         <div className="col-span-4 place-self-center mt-4 lg:mt-0">
-          <div className=" w-[250px] h-[250px] lg:w-[400px] lg:h-[400px] relative">
+          <div className=" rounded-full overflow-hidden w-[250px] h-[250px] lg:w-[300px] lg:h-[300px] relative">
             <Image
               src="/images/cc.jpg"
               alt="Ayush Chandra - Software Engineer, Ui/Ux Designer, Web Developer"
               style={{
                 position: "absolute",
-                transform: "translate(-50%, -50%)",
+                transform: "translate(-46%, -48%)",
                 top: "50%",
                 left: "50%",
+                scale: 1.15,
               }}
               width={300}
               height={200}
