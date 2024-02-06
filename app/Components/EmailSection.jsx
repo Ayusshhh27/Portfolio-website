@@ -42,7 +42,7 @@ const EmailSection = () => {
         </div>
       </div>
       <div>
-        <form onSubmit={handleSubmit} className="flex flex-col">
+        <form onSubmit className="flex flex-col">
           <div className="mb-6">
             <label
               htmlFor="email"
