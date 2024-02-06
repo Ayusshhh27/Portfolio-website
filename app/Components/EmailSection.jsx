@@ -18,7 +18,7 @@ const EmailSection = () => {
     >
       <div className="z-10">
         <h5 className="text-xl font-extrabold bg-secondary-200 text-transparent bg-clip-text my-2">
-          Let's Connect
+          Lets Connect
         </h5>
         <p className="text-tertiary-300 font-semi-bold mb-4 max-w-md">
           Thank you for considering my application. I am enthusiastic about the
