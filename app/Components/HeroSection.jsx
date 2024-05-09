@@ -44,7 +44,7 @@ export const HeroSection = () => {
           }
           <div>
             <Link
-              href="https://drive.google.com/file/d/1xvNgJnX8fSQ-_4SyKjBuXndwvIPB4i5u/view?usp=sharing"
+              href="https://drive.google.com/file/d/1K2qXRqwcRmUJ1itN-c1qJrzetOwAmBkL/view?usp=sharing"
               passHref
             >
               <button className="px-1 py-1 w-full sm:w-fit rounded-full bg-gradient-to-tr from-secondary-500 to-primary-500 hover:to-primary-900 text-white transition duration-100 ease-in-out">
